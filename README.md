@@ -9,7 +9,6 @@ I'm a passionate Flutter developer with a strong foundation in building high-per
 ## 🚀 About Me
 
 - 🔭 Currently interning at **Fossphorus** via the **BanoQabil** program
-- 🌱 Continuously learning **AI integration**, **Next.js**, and **cross-platform development**
 - 💬 Ask me about **Flutter**, **Firebase**, **state management**, or **building scalable UI**
 - 📫 How to reach me: [ghulamahmedmbs@gmail.com](mailto:ghulamahmedmbs@gmail.com)
 
